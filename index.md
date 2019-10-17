@@ -1,0 +1,5 @@
+I’m a postdoc researcher at MIT, where I use observations with world class telescopes to study the planetary systems of nearby stars.
+
+Most of my research uses high resolution and high contrast adaptive optics imaging. I'm interested in understanding the frequency and properties of exoplanet systems, and in particular the architectures of exoplanet systems, and the interactions of exoplanets with debris disks and companion stars. I've been leading programs to search for long-period exoplanets and brown dwarfs with the SPHERE(link) instrument, and have contributed to a large (link) program searching for planets with the NIRC2 instrument. I've also contributed to the TESS(link) follow-up program, by searching for faint companions to the planet host, to ensure that planet radii are measured correctly and check that the signal really is originating from the star we think.
+
+I completed my PhD in 2018 at the University of Exeter, where I worked with Prof Sasha Hinkley. After writing my thesis I moved across the pond to MIT, where I now work with Ian Crossfield.
