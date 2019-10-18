@@ -14,4 +14,4 @@ I completed my PhD in 2018 at the University of Exeter, where I worked with Prof
 
 Watch me present my thesis work as part of the [IOP 3 Minute Wonder](https://www.iop.org/activity/3-minute-wonder/page_60438.html#gref) competition below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UDVLm8WPB8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="281" src="https://www.youtube.com/embed/UDVLm8WPB8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
