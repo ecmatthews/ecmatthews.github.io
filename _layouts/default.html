@@ -22,13 +22,23 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+	{% if site.address1 %}
+	<p site.address1 />
+	{% endif %}
+
+        {% if site.address2 %}
+        <p site.address2 />
+        {% endif %}
+	
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
+	<!--
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">view my gitHub profile</a></p>
+        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub profile</a></p>
         {% endif %}
+	-->
 
         {% if site.show_downloads %}
         <ul class="downloads">
