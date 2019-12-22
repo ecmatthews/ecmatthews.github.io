@@ -12,6 +12,8 @@ I completed my PhD in 2018 at the University of Exeter, where I worked with Prof
 
 ## See my publications [on ADS](https://ui.adsabs.harvard.edu/search/q=docs(library%2F3q9CQGufQNOelb8sO5DOpg)&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 
-I'm passionate about science communication, and currently co-lead the [Astronomy on Tap Boston](https://www.facebook.com/aotboston/) team - if you're in the area, come along to one of our events! As well as organising events I love to speak about science. Watch me present my thesis work as part of the [IOP 3 Minute Wonder](https://www.iop.org/activity/3-minute-wonder/page_60438.html#gref) competition below:
+I'm passionate about science communication, and currently co-lead the [Astronomy on Tap Boston](https://www.facebook.com/aotboston/) team - if you're in the area, come along to one of our events! I've also been mentoring high school and undergraduate students through the [JuRA @ MIT](https://clarasousasilva.com/jura) program.
+
+Watch me present my thesis work as part of the [IOP 3 Minute Wonder](https://www.iop.org/activity/3-minute-wonder/page_60438.html#gref) competition below:
 
 <iframe width="500" height="281" src="https://www.youtube.com/embed/UDVLm8WPB8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
