@@ -14,7 +14,7 @@ I completed my PhD in 2018 at the University of Exeter, where I worked with Prof
 
 ## Find me [on ORCID](https://orcid.org/0000-0003-0593-1560)
 
-I'm passionate about science communication, with my most recent scicomm adventure being leading the [Astronomy on Tap Boston](https://www.facebook.com/aotboston/) team. I've also recently mentored high school and undergraduate students through the [JuRA @ MIT](https://clarasousasilva.com/jura) program.
+I'm passionate about science communication, with my most recent scicomm adventure being leading the [Astronomy on Tap Boston](https://www.facebook.com/aotboston/) team. I've also recently mentored high school and undergraduate students through the [JuRA @ MIT](https://clarasousasilva.com/jura) program. 
 
 Watch me present my thesis work as part of the [IOP 3 Minute Wonder](https://www.iop.org/activity/3-minute-wonder/page_60438.html#gref) competition below:
 
