@@ -1,11 +1,10 @@
 title: Elisabeth Matthews
 description: Astrophysicist at MIT
 logo: images/matthews2018.png
-address1: she/her
-address2: 
-address3: Observatoire de Genève
-address4: Chemin des Maillettes, 51
-address5: 1290 Versoix
+address1: she/her <br>
+address2: Observatoire de Genève
+address3: Chemin des Maillettes, 51
+address4: 1290 Versoix
 email: elisabeth.matthews@unige.ch
 google_analytics: 
 show_downloads: false
