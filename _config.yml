@@ -4,8 +4,8 @@ logo: images/matthews2018.png
 address1: she/her <br>
 address2: Observatoire de Genève
 address3: Chemin des Maillettes, 51
-address4: 1290 Versoix,  Switzerland
-email: <br> elisabeth.matthews@unige.ch
+address4: 1290 Versoix,  Switzerland <br>
+email: elisabeth.matthews@unige.ch
 google_analytics: 
 show_downloads: false
 theme: jekyll-theme-minimal
