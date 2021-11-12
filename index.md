@@ -1,5 +1,3 @@
-[Home](https://ecmatthews.github.io/)  |  [Talks and Posters](https://ecmatthews.github.io/slides)  |  [Media](https://ecmatthews.github.io/media)
-
 # Hi!
 
 I’m a postdoctoral researcher at the University of Geneva, where I use observations with world class telescopes to study the planetary systems of nearby stars.
