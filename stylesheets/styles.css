@@ -144,7 +144,7 @@ th, td {
   border-bottom:1px solid #e5e5e5;
 }
 
-td:nth-child(2) {
+td:first-child {
     width: 95% ;
 }
 
