@@ -12,13 +12,20 @@ table th:nth-of-type(4) {
     width: 10%;
 }
 </style>
-&nbsp |[Home](https://ecmatthews.github.io/) | [Talks and Posters](https://ecmatthews.github.io/slides) | [Media](https://ecmatthews.github.io/media)
+&nbsp; |[Home](https://ecmatthews.github.io/) | [Talks and Posters](https://ecmatthews.github.io/slides) | [Media](https://ecmatthews.github.io/media)
 
-
+<!---
 <style>
 table th:first-of-type {width: 1%;}
 table th:nth-of-type(2) {width: 99%;}
 </style>
+-->
+<table style="width: 100%">
+    <colgroup>
+       <col span="1" style="width: 15%;">
+       <col span="1" style="width: 85%;">
+    </colgroup>
+</table>
 
 <img src="exo3poster/hd19257_thumbnail.png" alt="alt text"> | Detection of three stellar mass companions to highly dusty debris disk systems: my [poster](https://ecmatthews.github.io/exo3poster/exo3_poster.html) from the [Exoplanets III](https://hdconfsys.zah.uni-heidelberg.de/exoplanets3/index.php) conference in Heidelberg (virtually), July 2020.
 
