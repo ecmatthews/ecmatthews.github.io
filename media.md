@@ -1,4 +1,18 @@
-[Home](https://ecmatthews.github.io/) | [Talks and Posters](https://ecmatthews.github.io/slides) | [Media](https://ecmatthews.github.io/media)
+<style>
+table th:first-of-type {
+    width: 10%;
+}
+table th:nth-of-type(2) {
+    width: 30%;
+}
+table th:nth-of-type(3) {
+    width: 30%;
+}
+table th:nth-of-type(4) {
+    width: 30%;
+}
+</style>
+|[Home](https://ecmatthews.github.io/) | [Talks and Posters](https://ecmatthews.github.io/slides) | [Media](https://ecmatthews.github.io/media)
 
 
 <style>
@@ -14,7 +28,7 @@ table th:nth-of-type(2) {
 
 <img src="images/jwst_mirror.png" alt="alt text"> | [Overture to Exoplanets](https://eos.org/features/overture-to-exoplanets), an article in *EOS: Science News by AGU* written by Kimberly M. S. Cartier.
 
-<img src="images/VRexoplanets" alt="alt text"> | [Take a Virtual Reality tour of six REAL exoplanets](https://www.youtube.com/watch?v=qhLExhpXX0E), a 360° VR experience produced by [We The Curious](https://www.google.com/search?channel=fs&client=ubuntu&q=we+the+curious) and the [University of Exeter Astrophysics Group](http://emps.exeter.ac.uk/physics-astronomy/)
+<img src="images/VRexoplanets.png" alt="alt text"> | [Take a Virtual Reality tour of six REAL exoplanets](https://www.youtube.com/watch?v=qhLExhpXX0E), a 360° VR experience produced by [We The Curious](https://www.google.com/search?channel=fs&client=ubuntu&q=we+the+curious) and the [University of Exeter Astrophysics Group](http://emps.exeter.ac.uk/physics-astronomy/)
 
 
 <!---
