@@ -1,6 +1,6 @@
-&nbsp; [Home](https://ecmatthews.github.io/) &nbsp; &nbsp; &nbsp; [Talks and Posters](https://ecmatthews.github.io/slides) &nbsp; &nbsp; &nbsp; [Media](https://ecmatthews.github.io/media)
-------
+[Home](https://ecmatthews.github.io/) &nbsp; &nbsp; &nbsp; [Talks and Posters](https://ecmatthews.github.io/slides) &nbsp; &nbsp; &nbsp; [Media](https://ecmatthews.github.io/media)
 
+------
 
 
 <img src="exo3poster/hd19257_thumbnail.png" alt="alt text" width="80"> 
