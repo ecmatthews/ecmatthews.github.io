@@ -1,5 +1,6 @@
 &nbsp; |[Home](https://ecmatthews.github.io/) | [Talks and Posters](https://ecmatthews.github.io/slides) | [Media](https://ecmatthews.github.io/media)
 
+
 <img src="exo3poster/hd19257_thumbnail.png" alt="alt text"> | Detection of three stellar mass companions to highly dusty debris disk systems: my [poster](https://ecmatthews.github.io/exo3poster/exo3_poster.html) from the [Exoplanets III](https://hdconfsys.zah.uni-heidelberg.de/exoplanets3/index.php) conference in Heidelberg (virtually), July 2020.
 
 <img src="images/jwst_mirror.png" alt="alt text"> | [Overture to Exoplanets](https://eos.org/features/overture-to-exoplanets), an article in *EOS: Science News by AGU* written by Kimberly M. S. Cartier.
