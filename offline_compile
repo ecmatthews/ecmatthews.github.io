@@ -1,0 +1,21 @@
+to compile locally:
+
+> sudo apt install ruby-bundler
+
+> bundle init
+> bundle install
+
+add github-pages gem to Gemfile
+> gem 'github-pages', group: :jekyll_plugins
+> bundle install
+
+periodically
+> bundle update github-pages
+
+If: 
+`An error occurred while installing racc (1.6.0), and Bundler cannot continue.`
+> sudo apt install ruby-dev
+> sudo gem install rack -v 1.6.0
+> bundle install
+
+see https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll for more info

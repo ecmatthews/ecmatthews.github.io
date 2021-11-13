@@ -138,10 +138,6 @@ table {
   border-collapse:collapse;
 }
 
-table th:first-of-type {
-    width: 50%;
-}
-
 th, td {
   text-align:left;
   padding:5px 10px;
