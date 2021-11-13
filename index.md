@@ -1,3 +1,6 @@
+[Home](index) &emsp; &emsp; [Media](media)
+&emsp;
+
 # Hi!
 
 I’m a postdoctoral researcher at the University of Geneva, where I use observations with world class telescopes to study the planetary systems of nearby stars.
