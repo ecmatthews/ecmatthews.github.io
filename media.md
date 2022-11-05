@@ -3,7 +3,7 @@
 
 Here are some links to selected press appearances, outreach activities, and articles that I've writted.
 
-I'm always happy to speak to journalists about my science, and about exoplanets more broadly. Get in touch at [elisabeth.matthews@unige.ch](mailto:elisabeth.matthews@unige.ch).
+I'm always happy to speak to journalists about my science, and about exoplanets and astrophysics more broadly. Get in touch at [matthews@mpia.de](mailto:matthews@mpia.de).
 
 <!---
 using a hack to set relative column spacings: blank space headers that force a width on the RH column.
