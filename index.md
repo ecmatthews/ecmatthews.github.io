@@ -15,7 +15,7 @@ I completed my PhD in 2018 at the University of Exeter, where I worked with Prof
 
 ## See my publications [on ADS](https://ui.adsabs.harvard.edu/public-libraries/3q9CQGufQNOelb8sO5DOpg)
 
-You can also find me on [twitter @lis_matthews](https://twitter.com/lis_matthews), on [LinkedIn](https://www.linkedin.com/in/elisabeth-matthews-21100a239/), and on [ORCID](https://orcid.org/0000-0003-0593-1560)
+You can also find me on [twitter @lis_matthews](https://twitter.com/lis_matthews), on [LinkedIn](https://www.linkedin.com/in/elisabeth-matthews-21100a239/), and on [ORCID](https://orcid.org/0000-0003-0593-1560). Please feel free to reach out if you are interested in bachelor or master thesis opportuniteis in Heidelberg!
 
 I'm passionate about science communication, with my most recent scicomm adventure being leading the [Astronomy on Tap Boston](https://www.facebook.com/aotboston/) team. I've also mentored high school and undergraduate students through the [JuRA @ MIT](https://clarasousasilva.com/jura) program. Previously, I was the lecturer for the Institute of Physics School's Tour, where I gave 14 talks at schools in Devon and Cornwall, and as a PhD student I wrote several articles for [astrobites.org](https://astrobites.org). See my astrobites articles [here](https://astrobites.org/author/ematthews/).
 
