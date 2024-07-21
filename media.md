@@ -1,7 +1,7 @@
 [Home](index) &emsp; &emsp; [Research](research) &emsp; &emsp; [Outreach](outreach) &emsp; &emsp; [Media](media)
 &emsp;
 
-Here are some links to selected press appearances, videosm and articles that I've writted.
+Here are some links to selected press appearances, videos and articles that I've writted.
 
 I'm always happy to speak to journalists about my science, and about exoplanets and astrophysics more broadly, and I can take media requests in both English and German. Get in touch at [matthews@mpia.de](mailto:matthews@mpia.de).
 
@@ -9,7 +9,7 @@ I'm always happy to speak to journalists about my science, and about exoplanets 
 using a hack to set relative column spacings: blank space headers that force a width on the RH column.
 -->
 
-| &emsp; | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  |
+| &nbsp; | &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  |
 | --- | --- |
 | <a href="https://www.youtube.com/watch?v=qhLExhpXX0E"><img src="images/VRexoplanets.png" alt="An artist's impression of a young planet in a debris disk"></a> | [Take a Virtual Reality tour of six REAL exoplanets](https://www.youtube.com/watch?v=qhLExhpXX0E), a 360° VR experience produced by [We The Curious](https://www.google.com/search?channel=fs&client=ubuntu&q=we+the+curious) and the [University of Exeter Astrophysics Group](http://emps.exeter.ac.uk/physics-astronomy/). |
 | <a href="https://eos.org/features/overture-to-exoplanets"><img src="images/jwst_mirror.png" alt="A photograph of the JWST mirror"></a> | [Overture to Exoplanets](https://eos.org/features/overture-to-exoplanets), an article in *Eos: Science News by AGU* about the planned JWST exoplanet science in cycle 1, written by Kimberly M. S. Cartier. |
