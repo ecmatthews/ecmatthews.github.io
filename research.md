@@ -17,6 +17,9 @@ IMAGE CREDITS !!!
 
 ---
 
+[<img src="images/research/rickman22.png" alt="Two panels, showing on the left a radial velocity curve and on the right a high-contrast image with a visible stellar companion" />](https://ui.adsabs.harvard.edu/abs/2017ApJ...843L..12M/abstract)
+<sup>*caption to the figure*</sup>
+
 **Calibrating evolution of stellar and substellar companions:** We can use this same direct+indirect technique to detect more massive brown dwarfs and low-mass stellar companions from the ground. This is crucial to test theoretical thermal evolution models for substellar companions, via combining dynamical masses with photometric measurements of the companions. There are hints that these "benchmark" brown dwarfs are not always consistent with theoretical models, necessitating further studies to understand the source of this discrepancy for underluminous companions, and to expand the sample of companions and search for trends relative to the theoretical models. Using CORALIE RVs, astrometric accelerations, and SPHERE high-contrast imaging we successfully detected several new brown dwarfs and low-mass stars ([Rickman, Matthews et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...668A.140R/abstract), [Rickman, Ceva, Matthews et al. 2024](https://ui.adsabs.harvard.edu/abs/2024A%26A...684A..88R/abstract)) and are also working on characterizing the properties of these newly detected companions to compare to atmospheric and evolutionary models. We are also continuing to search for new companions through my SPHERE program [0111.C-2054](http://archive.eso.org/wdb/wdb/eso/approved_runs/query?tel=UT3&prog_id=111.24YA.001&period=111&remarks=%20).  We also used similar methods to study the stellar binary companion to Kepler-444b, which hosts several small planets, and understand the impact of binarity on the stability of this system ([Stalport, Matthews et al. 2022](https://ui.adsabs.harvard.edu/abs/2022A%26A...667A.128S/abstract)).
 
 <!---
