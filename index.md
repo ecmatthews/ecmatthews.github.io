@@ -3,7 +3,7 @@
 
 # Hi!
 
-I’m a postdoctoral researcher at the [Max Planck Institute for Astronomy](https://www.mpia.de/en) in Heidelberg, where I'm pursuing independent research to discover and characterize the planetary systems of nearby stars. My main research focus is searching for cold substellar companions, by combining direct and indirect measurements of exoplanets and brown dwarfs, and I've also spent time understanding debris disks and their interactions with giant planets, and confirming and validating new transiting planets. Take a look at my [research](research) page for more details.
+I’m a postdoctoral researcher at the [Max Planck Institute for Astronomy](https://www.mpia.de/en) in Heidelberg, where I'm pursuing independent research to discover and characterize the planetary systems of nearby stars. My main research focus is searching for cold substellar companions, by combining direct and indirect measurements of exoplanets and brown dwarfs, to constrain their thermal evolution and study the physics and chemistry of gas-giant analogs. I've also spent time understanding debris disks and their interactions with giant planets, and confirming and validating new transiting planets. Take a look at my [research](research) page for more details.
 
 ![Images of a low-mass stellar companion and the BD +45 598 disk](images/bd_disk.png)
 
