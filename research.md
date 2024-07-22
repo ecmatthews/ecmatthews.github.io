@@ -1,7 +1,7 @@
 [Home](index) &emsp; &emsp; [Research](research) &emsp; &emsp; [Outreach](outreach) &emsp; &emsp; [Media](media)
 &emsp;
 
-Listed below are a few of my current research projects. See my full publication list [on ADS](https://ui.adsabs.harvard.edu/public-libraries/3q9CQGufQNOelb8sO5DOpg).
+Listed below are a few of my current & previous research themes. For my full publication list, see [my ADS library](https://ui.adsabs.harvard.edu/public-libraries/3q9CQGufQNOelb8sO5DOpg).
 
 Did you know JWST programs are citeable? If you use my data, please consider citing [my programs](https://ui.adsabs.harvard.edu/public-libraries/xFQUETUSR_-PVw69WskaFQ).
 
@@ -62,6 +62,7 @@ I contributed to a community "early release science" program to test out the hig
 
 As part of the TESS follow-up team, I worked to confirm and validate many transiting planets. My contribution was high-resolution imaging of candidate planet systems: detecting any binary companion stars or background objects is crucial to confirm that a planet is not a false positive (e.g. a background eclipsing binary), and to ensure transitting planet radii are measured accurately and are not biased by additional flux from companion stars in the telescope aperture. For this followup work I led a program with VLT/NACO (program [0103.C-449](http://archive.eso.org/wdb/wdb/eso/approved_runs/query?tel=UT1&prog_id=0103.C-0449(A)&period=103&remarks=%20)) and contributed to a [Gemini large program](https://www.gemini.edu/observing/phase-i/llp/approved-llps/validating-tess-exoplanet-candidates). These data contributed to discovery efforts for several exciting planet discoveries, e.g. [Dragomir et al. 2019](https://ui.adsabs.harvard.edu/abs/2019ApJ...875L...7D/abstract), [Kostov et al. 2019](https://ui.adsabs.harvard.edu/abs/2019AJ....158...32K/abstract), [Günther et al. 2019](https://ui.adsabs.harvard.edu/abs/2019NatAs...3.1099G/abstract), [Burt et al. 2020](https://ui.adsabs.harvard.edu/abs/2020AJ....160..153B/abstract), [Badenas-Agusti et al. 2020](https://ui.adsabs.harvard.edu/abs/2020AJ....160..113B/abstract), [Armstrong et al. 2020](https://ui.adsabs.harvard.edu/abs/2020Natur.583...39A/abstract), [Dransfield et al. 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.1328D/abstract), [Naponiello et al. 2024](https://ui.adsabs.harvard.edu/abs/2023Natur.622..255N/abstract). I also contributed to larger population studies based on TESS candidate planets, e.g. [Christiansen et al. 2022](https://ui.adsabs.harvard.edu/abs/2022AJ....163..244C/abstract), [Giacalone et al. 2022](https://ui.adsabs.harvard.edu/abs/2022AJ....163...99G/abstract) and [Polanski et al. 2024](https://ui.adsabs.harvard.edu/abs/2024ApJS..272...32P/abstract).
 
+---
 
 
 <!---
