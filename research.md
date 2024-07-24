@@ -8,7 +8,10 @@ Did you know JWST programs are citeable? If you use my data, please consider cit
 ---
 **Imaging cold exoplanets** 
 
-The thermal emission of cold exoplanets is directly accessible for the first time with JWST. By targetting systems with long-term accelerations (through radial velocity measurements and/or astrometric measurements), we can hunt out the best systems for this work, and identify new, cold exoplanets that are prime for atmospheric characterization. We can also precisely measure the dynamical masses of these companion, and thereby test thermal evolution models for exoplanets out to solar system ages. I am leading JWST programs ([GO 2243](https://www.stsci.edu/cgi-bin/get-proposal-info?id=2243&observatory=JWST&pi=1) and [GO 5229](https://www.stsci.edu/cgi-bin/get-proposal-info?id=5229&observatory=JWST&pi=1)) to collect coronagraphic imaging of some of the most promising nearby stars that show accelerations, with the goal of directly detecting their exoplanets.
+[<img src="images/research/epsindab_nasa.png" alt="JWST images with an obscured star in the center, and a bright point source in the lower left" />](https://esawebb.org/news/weic2421/)
+<sup><sub>*image: ESA/Webb, NASA, CSA, STScI, E. Matthews (Max Planck Institute for Astronomy)*</sub></sup>
+
+The thermal emission of cold exoplanets is directly accessible for the first time with JWST. By targetting systems with long-term accelerations (through radial velocity measurements and/or astrometric measurements), we can hunt out the best systems for this work, and identify new, cold exoplanets that are prime for atmospheric characterization. We can also precisely measure the dynamical masses of these companion, and thereby test thermal evolution models for exoplanets out to solar system ages. I am leading JWST programs [GO 2243](https://www.stsci.edu/cgi-bin/get-proposal-info?id=2243&observatory=JWST&pi=1) and [GO 5229](https://www.stsci.edu/cgi-bin/get-proposal-info?id=5229&observatory=JWST&pi=1) to collect coronagraphic imaging of some of the most promising nearby accelerating stars. In [Matthews et al. 2024](https://www.nature.com/articles/s41586-024-07837-8) we found one of these planets: Eps Ind Ab, a 275K, 6.3 jupiter mass planet just 3.6pc from Earth.
 
 ---
 **Calibrating evolution of stellar and substellar companions** 
