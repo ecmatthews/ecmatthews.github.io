@@ -13,4 +13,4 @@ I’m a postdoctoral researcher at the [Max Planck Institute for Astronomy](http
 
 You can also find me on [twitter @lis_matthews](https://twitter.com/lis_matthews), on [bluesky @elisabethastro.bsky.social](https://bsky.app/profile/elisabethastro.bsky.social), on [LinkedIn](https://www.linkedin.com/in/elisabeth-matthews-21100a239/), and on [ORCID](https://orcid.org/0000-0003-0593-1560). 
 
-Please feel free to reach out if you are interested in bachelor or master thesis opportunities in Heidelberg!
+Please feel free to reach out if you are interested in bachelor or master thesis opportunities in Heidelberg.
