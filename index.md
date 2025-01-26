@@ -1,11 +1,11 @@
 [Home](index) &emsp; &emsp; [Research](research) &emsp; &emsp; [Outreach](outreach) &emsp; &emsp; [Media](media)
 &emsp;
 
-# Hi!
+I’m a postdoctoral researcher at the [Max Planck Institute for Astronomy](https://www.mpia.de/en) in Heidelberg, where I'm pursuing independent research to discover and characterize the planetary systems of nearby stars.
 
-I’m a postdoctoral researcher at the [Max Planck Institute for Astronomy](https://www.mpia.de/en) in Heidelberg, where I'm pursuing independent research to discover and characterize the planetary systems of nearby stars. My main research focus is searching for and characterizing cold substellar companions, by combining direct and indirect measurements of exoplanets and brown dwarfs. With photometric observations we can constrain their thermal evolution and place preliminary constraints on the physics and chemistry of gas-giant analogs; with spectra of cold substellar objects we can understand their atmospheric physics and chemistry in detail. I've also spent time understanding debris disks and their interactions with giant planets, and confirming and validating new transiting planets. Take a look at my [research](research) page for more details.
+![Images of the exoplanet Eps Ind Ab as imaged with JWST (left; Matthews et al. 2024), and a spectrum of a cold brown dwarf (right; Matthews et al. submitted)](images/epsind_and_0458.png)
 
-![Images of the exoplanet Eps Ind Ab as imaged with JWST (left), and a spectrum of a cold brown dwarf (right)](images/epsind_and_0458.png)
+My main research focus is searching for and characterizing cold substellar companions, by combining direct and indirect measurements of exoplanets and brown dwarfs. With photometric observations we can constrain their thermal evolution and place preliminary constraints on the physics and chemistry of gas-giant analogs; with spectra of cold substellar objects we can understand their atmospheric physics and chemistry in detail. I've also spent time understanding debris disks and their interactions with giant planets, and confirming and validating new transiting planets. Take a look at my [research](research) page for more details.
 
 ## Email me at [matthews@mpia.de](mailto:matthews@mpia.de)
 
@@ -15,4 +15,4 @@ You can also find me on [bluesky @elisabethastro.bsky.social](https://bsky.app/p
 
 Please feel free to reach out if you are interested in bachelor or master thesis opportunities in Heidelberg.
 
-![Images of a low-mass stellar companion and the BD +45 598 debris disk](images/bd_disk.png)
+![Images of a low-mass stellar companion (left; Matthews et al. 2021) and the HD129590 debris disk (right; Matthews et al. 2017)](images/bd_disk.png)
