@@ -5,11 +5,11 @@ On this page you can find some plots and data associated with my paper [Matthews
 
 1. Interactive plot of the data and the best-fit model. Click [here](projects/model_vs_data.html) for a full-page version.
 
-    <iframe style="position: relative; width: 100%" frameborder="0" scrolling="no" src="https://ecmatthews.github.io/projects/model_vs_data.html"></iframe>
+    <iframe style="position: relative; width: 100%; height:300px" frameborder="0" scrolling="no" src="https://ecmatthews.github.io/projects/model_vs_data.html"></iframe>
 
 2. Interactive plot of the data, and several models with and without HCN/C2H2 included. Click [here](projects/models_hcn_c2h2.html) for a full-page version.
 
-    <iframe style="position: relative; width: 100%" frameborder="0" scrolling="no" src="https://ecmatthews.github.io/projects/models_hcn_c2h2.html"></iframe>
+    <iframe style="position: relative; width: 100%; height:300px" frameborder="0" scrolling="no" src="https://ecmatthews.github.io/projects/models_hcn_c2h2.html"></iframe>
 
 3. Extracted 1D spectrum, as presented in Matthews et al. 2025. This includes the background systematics correction described in Appendix C of the paper, and treats the binary as an unresolved object. We provide a spectrum at the native resolution of the instrument (Rinst), and a spectrum degraded to R=1000, as used in the retrievals in Matthews et al. 2025 (see paper for details).
 
